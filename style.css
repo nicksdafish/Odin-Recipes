@@ -39,9 +39,12 @@ a:link, a:visited{
     background-repeat: no-repeat;
     background-size: cover;
     
+    
 }
 
-
+.recipes{
+    list-style-type: none;
+}
 
 .box-1{
     background-color: #333;
